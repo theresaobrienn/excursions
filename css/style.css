@@ -1,17 +1,49 @@
+body {
+background: black;
+font-family: Verdana;
 }
 h1 {
-  font-family: Verdana;
   text-align: center;
   font-weight: normal;
   font-size: 50px;
   color: white;
-  background-color: black;
+  font-family: Verdana:
 }
-.link1 {
-  color: aquamarine;
+.link {
   font-size: 16px;
+  text-align: center;
+  font-family: Verdana:
 }
 .Video {
   background-color: black;
   text-align: center;
+}
+.Tents {
+  text-align: center;
+}
+
+.Iphone{
+  text-align: center;
+}
+
+h3{
+  text-align: right;
+  color: grey;
+  font-family: Verdana:
+}
+h2{
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+  text-align: center;
+}
+
+p
+{ font-size: 21px;
+color: grey;
+text-align: center;
+}
+
+a
+{font-size: 16px;
 }
